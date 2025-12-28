@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Blissful",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T17:25:42.954360Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blissful Myth",
+      "artist": "Napalm Death",
+      "has_synced": true,
+      "path": "select/01_Blissful_Myth_Napalm_Death.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Once Upon The Sea Of Blissful Awareness",
+      "artist": "Shpongle",
+      "has_synced": true,
+      "path": "select/02_Once_Upon_The_Sea_Of_Blissful_Awareness_Shpongle.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blissful Queen",
+      "artist": "Veruca Salt",
+      "has_synced": true,
+      "path": "select/03_Blissful_Queen_Veruca_Salt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blissful Death",
+      "artist": "Keiichi Okabe",
+      "has_synced": true,
+      "path": "select/04_Blissful_Death_Keiichi_Okabe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blissful Garden",
+      "artist": "Talisman",
+      "has_synced": false,
+      "path": "select/05_Blissful_Garden_Talisman.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blissful Death",
+      "artist": "Keiichi Okabe",
+      "has_synced": false,
+      "path": "select/06_Blissful_Death_Keiichi_Okabe.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Once Upon The Sea Of Blissful Awareness - Esionjim Remix",
+      "artist": "Shpongle",
+      "has_synced": false,
+      "path": "select/07_Once_Upon_The_Sea_Of_Blissful_Awareness_-_Esionjim_Remix_Shpongle.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Once Upon The Sea Of Blissful Awareness (Esionjim Remix)",
+      "artist": "Shpongle",
+      "has_synced": false,
+      "path": "select/08_Once_Upon_The_Sea_Of_Blissful_Awareness_(Esionjim_Remix)_Shpongle.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Once Upon the Sea of Blissful Awareness (Live)",
+      "artist": "Shpongle",
+      "has_synced": false,
+      "path": "select/09_Once_Upon_the_Sea_of_Blissful_Awareness_(Live)_Shpongle.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "幸セナ死 Blissful Death",
+      "artist": "Keiichi Okabe",
+      "has_synced": false,
+      "path": "select/10_幸セナ死_Blissful_Death_Keiichi_Okabe.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blissful Bloodshower",
+      "artist": "Incantation",
+      "has_synced": false,
+      "path": "select/11_Blissful_Bloodshower_Incantation.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blissful",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Blissful_BE_FIRST.txt"
+    }
+  ]
+}
